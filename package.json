@@ -1,0 +1,15 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "datas.js",
+  "dependencies": {
+    "heap": "^0.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DongYuanxin",
+  "license": "ISC"
+}
