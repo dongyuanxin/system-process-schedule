@@ -15,8 +15,16 @@ const data1 = [
   pcb(1003,"Job4",1,11,11,0,'R'),
 ]
 
+const data2 = [
+  pcb(1000,"P1",10,8,8,0,'R'),
+  pcb(1001,"P2",12,12,12,0,'R'),
+  pcb(1002,"P3",14,4,4,0,'R'),
+  pcb(1003,"P4",16,6,6,0,'R'),
+]
+
 module.exports = {
   builtInData,
-  data1
+  data1,
+  data2
 }
 
